@@ -11,7 +11,7 @@
 
 ### Projects
 ### [Sale Analysis for Advanture Work] 
-![image alt](https://github.com/YariInCs/Yari.github.io/blob/de56c6cfda97b6220dbc2e63d38fd712d5ce4cd8/Images/ExcelDashboard.png)
+(/Images/ExcelDashboard.png)
 
 This was part of a personal project to work on my skills. Such as using Excel cleaning tools, to organize and prepare the data for analysis. Applying pivot tables to uncover trends and summarize key mattrics, and making an interactive dashboard with slicers and charts. this turned messy data into a professional, decision-support tool.
 
