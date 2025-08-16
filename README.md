@@ -18,7 +18,7 @@ This was part of a personal project to work on my skills. Such as using Excel cl
 ### [The big dataset of ultra-marathon running]
 ![image alt](https://github.com/YariInCs/Yari.github.io/blob/5bad7bafa8820a35e722e1cd5fa8acf58a49cb39/Images/Python.png)
 
-I worked with a massive dataset that required extensive cleaning and transformation. Using Python and Pandas, I handled missing values, standardized formats, and optimized the data for analysis. Once the data was structured, I leveraged Seaborn to create clear(https://github.com/YariInCs/Yari.github.io/blob/c4f833114af8a66b1c52fde59f75a0f5af275974/Images/Chart.png), insightful visualizations that highlighted patterns, correlations, and key trends. This workflow demonstrated how Python can efficiently process large datasets and turn them into actionable insights through visual storytelling.
+I worked with a massive dataset that required extensive cleaning and transformation. Using Python and Pandas, I handled missing values, standardized formats, and optimized the data for analysis. Once the data was structured, I leveraged Seaborn to create clear ![image alt](https://github.com/YariInCs/Yari.github.io/blob/c4f833114af8a66b1c52fde59f75a0f5af275974/Images/Chart.png), insightful visualizations that highlighted patterns, correlations, and key trends. This workflow demonstrated how Python can efficiently process large datasets and turn them into actionable insights through visual storytelling.
 
 
 
