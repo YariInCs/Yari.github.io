@@ -19,7 +19,7 @@ This was part of a personal project to work on my skills. Such as using Excel cl
 ![image alt](/Images/Python.png)
 
 I worked with a massive dataset that required extensive cleaning and transformation. Using Python and Pandas, I handled missing values, standardized formats, and optimized the data for analysis. Once the data was structured, I leveraged Seaborn to create clear, insightful visualizations that highlighted patterns, correlations, and key trends.
-![image alt](/Images/all charts.jpg) This workflow demonstrated how Python can efficiently process large datasets and turn them into actionable insights through visual storytelling.
+![image alt](/Images/allcharts.png) This workflow demonstrated how Python can efficiently process large datasets and turn them into actionable insights through visual storytelling.
 
 
 
