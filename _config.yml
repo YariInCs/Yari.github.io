@@ -1,5 +1,5 @@
-title: Haider Bouallegue
-logo: /Images/20240121_042016.jpg
-#description: text below image
+title: [Haider Bouallegue]
+tagline: [this is a website made to show case my work]
+#description: [A short description of your site's purpose (e.g. for search engines)]
 show_downloads: True
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
