@@ -1,4 +1,4 @@
-# Highly driven to IT
+# Portfolio
 
 ### Education
 - Financial and Accounting Sciences, Bachelor of Finance
