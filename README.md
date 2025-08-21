@@ -21,6 +21,10 @@ This was part of a personal project to work on my skills. Such as using Excel cl
 I worked with a massive dataset that required extensive cleaning and transformation. Using Python and Pandas, I handled missing values, standardized formats, and optimized the data for analysis. Once the data was structured, I leveraged Seaborn to create clear, insightful visualizations that highlighted patterns, correlations, and key trends.
 ![image alt](/Images/AllCharts.jpg) This workflow demonstrated how Python can efficiently process large datasets and turn them into actionable insights through visual storytelling.
 
+### [querying Population Growth database]
+![image alt](/Images/MySql.png)
+
+In this project i worked with a dataset called Population Growth to practice and strengthen my SQL skills. My goal was to explore population trends over time, answer specific questions that are related to the data. Through this project, I learned how to write complex queries, handle common SQL errors, and apply different techniques to extract meaningful insights from raw data.
 
 
 
