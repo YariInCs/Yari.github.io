@@ -24,6 +24,7 @@ I worked with a massive dataset that required extensive cleaning and transformat
 ![image alt](/Images/AllCharts.jpg) This workflow demonstrated how Python can efficiently process large datasets and turn them into actionable insights through visual storytelling.
 
 ### [Querying Population Growth database]
+![image alt](/Images/MySql.png)
 [Download My File](PopulationGrowth.sql)
 
 In this project i worked with a dataset called Population Growth to practice and strengthen my SQL skills. My goal was to explore population trends over time, answer specific questions that are related to the data. Through this project, I learned how to write complex queries, handle common SQL errors, and apply different techniques to extract meaningful insights from raw data.
